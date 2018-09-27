@@ -238,7 +238,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #174eec;}
     -o-transition: 0.3s linear; 
     transition: 0.3s linear;
 }
-.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#9f00ff;border: 1px solid #9f00ff;}
+.header-text a:hover{ box-shadow: 0 5px 20px rgba(0,0,0,.4);background:#0982ff;border: 1px solid #0982ff;}
 /*.header-text-area*/
 
 /*-------------------------------------
@@ -329,7 +329,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #174eec;}
 --------------------------------------*/
 
 .education {
-    background:  #f9fbfd;
+   /* background:  #f9fbfd;*/
     padding-top:  50px;
 }
 .education-horizontal-timeline {
