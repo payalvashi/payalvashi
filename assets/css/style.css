@@ -743,8 +743,8 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     
 }
 .single-contact-btn:hover{
-    background: #9f00ff;
-    border: 1px solid #9f00ff;
+    background: #0982ff;
+    border: 1px solid #0982ff;
     box-shadow: 0 5px 20px rgba(0,0,0,.2);
 }
 
@@ -799,11 +799,11 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 }/*hm-foot-icon*/
 
 .hm-footer-copyright p{
-    color: #888ea5;
+    color: #174eec;
     text-transform: capitalize;
     padding: 38px 0;
 }
-.hm-footer-copyright p a {color: #888ea5;}
+.hm-footer-copyright p a {color: #174eec;}
 /*===============================
     Scroll Top
 ===============================*/
